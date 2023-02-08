@@ -1,0 +1,108 @@
+.sablon {
+    width: 760px;
+    height: auto;
+    margin: 30px auto;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.banner {
+    width: 630px;
+    height: 60px;
+    border-radius: 5px;
+    float: left;
+    margin: 0 0 0 10px;
+    background: #FF8787;
+    color: #fff;
+    font: bold 15px tahoma;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+.menu {
+    width: 580px;
+    height: 47px;
+    float: left;
+    margin: 10px 0 0 0;
+    background: #ff7575;
+    border-radius: 5px;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    font: bold tahoma 15px;
+    display: block;
+    width: 145px;
+    height: 47px;
+    text-align: center;
+    padding: 10px 0 0 0;
+}
+
+.menu ul li a:hover {
+    background: #FF8787;
+    border-radius: 500px;
+}
+
+.sosyal {
+    width: 150px;
+    height: 47px;
+    float: left;
+    margin: 10px 0 0 10px;
+
+}
+
+.orta {
+    width: 740px;
+    height: 348px;
+    float: left;
+    margin: 10px 0 0 0;
+    background: #F8C4B4;
+}
+
+.kutu1 {
+    width: 240px;
+    height: 240px;
+    float: left;
+    margin: 10px 0 0 0;
+    background: #E5EBB2;
+}
+
+.kutu2 {
+    width: 240px;
+    height: 240px;
+    float: left;
+    margin: 10px 0 0 10px;
+    background: #E5EBB2;
+}
+
+
+.kutu3 {
+    width: 240px;
+    height: 240px;
+    float: left;
+    margin: 10px 0 0 10px;
+    background: #E5EBB2;
+}
+
+.alt {
+    width: 740px;
+    height: 90px;
+    float: left;
+    margin: 10px 0 0 0;
+    background: #BCE29E;
+}
