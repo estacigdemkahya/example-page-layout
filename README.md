@@ -1,6 +1,7 @@
 # example-page-layout
 It is an example of page layout for beginner Frontend developers.
 
+Tamamen türkçe hazırlanmıştır. Sayfa düzenini anlatmak amaçlı örnek olarak buraya kaydedildi.
 
 It is an example of page layout for beginner Frontend developers.
 It is a template page that can be easily prepared by a person who knows no bootstrap and other resources,
